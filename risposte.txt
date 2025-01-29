@@ -1,1 +1,7 @@
-
+1.rispetto alle variabili,gli oggetti contengono più valori
+2.gli oggeti vengono dichiarati comunemente con const,mentre le variabili con let
+es: let car = "Fiat"; const car = {type:"Fiat", model:"500", color:"white"};
+3.le proprietà e i valori si rappresentano attraverso coppie chiavi-valori
+per aggiungere proprietà, bisogna mettere il nome dell oggetto creato per esempio persone poi aggiungere il nome della proprietà per esempio person.firstName = "John";
+4.la virgola serve per separare tra loro le coppie chiavi-valori
+5. il primo metodo è objectName.propertyName mentre il secondo è objectName["propertyName"].
