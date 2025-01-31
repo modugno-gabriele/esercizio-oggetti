@@ -5,3 +5,7 @@ es: let car = "Fiat"; const car = {type:"Fiat", model:"500", color:"white"};
 per aggiungere proprietà, bisogna mettere il nome dell oggetto creato per esempio persone poi aggiungere il nome della proprietà per esempio person.firstName = "John";
 4.la virgola serve per separare tra loro le coppie chiavi-valori
 5. il primo metodo è objectName.propertyName mentre il secondo è objectName["propertyName"].
+6. un metodo è una funzione che è associata a un oggetto.
+7. Un metodo è essenzialmente una funzione che è associata a un oggetto come sua proprietà. 
+8.La parola chiave this in JavaScript si riferisce all'oggetto su cui una funzione o un metodo è stato invocato
+9.Un metodo è un tipo di funzione che è associato a un oggetto. Può essere invocato utilizzando la notazione a punti (ad esempio, oggetto. metodo()). I metodi hanno accesso alle proprietà e agli altri metodi dell'oggetto con cui sono associati.
